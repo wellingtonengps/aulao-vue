@@ -1,0 +1,22 @@
+@import './base.css';
+
+body {
+  margin: 0;
+  background-color: black;
+  color: rgb(224,217,217)
+}
+
+#app {
+
+  font-weight: normal;
+}
+
+header {
+  font-size: 2em;
+  color: white;
+  margin-bottom: 20px;
+  background-color: green;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+}
