@@ -22,7 +22,9 @@ function mudarNome() {
 }
 </script> -->
 
-<!-- Usando options - API-->
+<!-- Usando options - API,
+Não precisa se preocupar com a reatividade
+-->
 
 <script>
 export default {
